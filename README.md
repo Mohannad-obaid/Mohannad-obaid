@@ -4,7 +4,7 @@ I'm a backend developer working on building efficient and scalable applications.
 
 ---
 
-### 📚 Frameworks and Libraries
+### 📚 Frameworks 
 - **NestJS** - Building scalable and efficient server-side applications.
 - **Express** - Fast, unopinionated, minimalist web framework for Node.js.
 
